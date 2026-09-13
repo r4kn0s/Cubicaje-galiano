@@ -1,0 +1,641 @@
+{
+ "B1": {
+  "dims": [
+   364,
+   279,
+   42
+  ],
+  "n": 204,
+  "qty": 40000,
+  "boxes": 197,
+  "last": 16,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 42,
+    "W": 780,
+    "n": 6,
+    "blocks": [
+     {
+      "w": 42,
+      "d": 279,
+      "h": 364,
+      "nx": 1,
+      "ny": 2,
+      "layers": 1,
+      "z0": 0,
+      "z1": 364,
+      "n": 2,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     },
+     {
+      "w": 42,
+      "d": 364,
+      "h": 279,
+      "nx": 1,
+      "ny": 2,
+      "layers": 2,
+      "z0": 364,
+      "z1": 922,
+      "n": 4,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     }
+    ]
+   },
+   {
+    "id": "B",
+    "x": 42,
+    "y": 0,
+    "L": 1138,
+    "W": 42,
+    "n": 10,
+    "blocks": [
+     {
+      "w": 279,
+      "d": 42,
+      "h": 364,
+      "nx": 4,
+      "ny": 1,
+      "layers": 1,
+      "z0": 0,
+      "z1": 364,
+      "n": 4,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     },
+     {
+      "w": 364,
+      "d": 42,
+      "h": 279,
+      "nx": 3,
+      "ny": 1,
+      "layers": 2,
+      "z0": 364,
+      "z1": 922,
+      "n": 6,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     }
+    ]
+   },
+   {
+    "id": "C",
+    "x": 42,
+    "y": 42,
+    "L": 1138,
+    "W": 738,
+    "n": 188,
+    "blocks": [
+     {
+      "w": 42,
+      "d": 364,
+      "h": 279,
+      "nx": 27,
+      "ny": 2,
+      "layers": 2,
+      "z0": 0,
+      "z1": 558,
+      "n": 108,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     },
+     {
+      "w": 279,
+      "d": 364,
+      "h": 42,
+      "nx": 4,
+      "ny": 2,
+      "layers": 10,
+      "z0": 558,
+      "z1": 978,
+      "n": 80,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   }
+  ],
+  "fill": 96.5,
+  "ubvol": 211
+ },
+ "B2": {
+  "dims": [
+   364,
+   279,
+   92
+  ],
+  "n": 80,
+  "qty": 13000,
+  "boxes": 163,
+  "last": 40,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 1180,
+    "W": 780,
+    "n": 80,
+    "blocks": [
+     {
+      "w": 92,
+      "d": 364,
+      "h": 279,
+      "nx": 12,
+      "ny": 2,
+      "layers": 3,
+      "z0": 0,
+      "z1": 837,
+      "n": 72,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     },
+     {
+      "w": 279,
+      "d": 364,
+      "h": 92,
+      "nx": 4,
+      "ny": 2,
+      "layers": 1,
+      "z0": 837,
+      "z1": 929,
+      "n": 8,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   }
+  ],
+  "fill": 82.9,
+  "ubvol": 96
+ },
+ "B3": {
+  "dims": [
+   364,
+   264,
+   137
+  ],
+  "n": 59,
+  "qty": 2600,
+  "boxes": 45,
+  "last": 4,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 264,
+    "W": 780,
+    "n": 14,
+    "blocks": [
+     {
+      "w": 264,
+      "d": 364,
+      "h": 137,
+      "nx": 1,
+      "ny": 2,
+      "layers": 7,
+      "z0": 0,
+      "z1": 959,
+      "n": 14,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   },
+   {
+    "id": "B",
+    "x": 264,
+    "y": 0,
+    "L": 364,
+    "W": 780,
+    "n": 17,
+    "blocks": [
+     {
+      "w": 264,
+      "d": 364,
+      "h": 137,
+      "nx": 1,
+      "ny": 2,
+      "layers": 1,
+      "z0": 0,
+      "z1": 137,
+      "n": 2,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     },
+     {
+      "w": 364,
+      "d": 137,
+      "h": 264,
+      "nx": 1,
+      "ny": 5,
+      "layers": 3,
+      "z0": 137,
+      "z1": 929,
+      "n": 15,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     }
+    ]
+   },
+   {
+    "id": "C",
+    "x": 628,
+    "y": 0,
+    "L": 552,
+    "W": 780,
+    "n": 28,
+    "blocks": [
+     {
+      "w": 137,
+      "d": 364,
+      "h": 264,
+      "nx": 4,
+      "ny": 2,
+      "layers": 3,
+      "z0": 0,
+      "z1": 792,
+      "n": 24,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     },
+     {
+      "w": 264,
+      "d": 364,
+      "h": 137,
+      "nx": 2,
+      "ny": 2,
+      "layers": 1,
+      "z0": 792,
+      "z1": 929,
+      "n": 4,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   }
+  ],
+  "fill": 86.1,
+  "ubvol": 68
+ },
+ "D1": {
+  "dims": [
+   474,
+   369,
+   87
+  ],
+  "n": 54,
+  "qty": 4871,
+  "boxes": 91,
+  "last": 11,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 87,
+    "W": 780,
+    "n": 4,
+    "blocks": [
+     {
+      "w": 87,
+      "d": 369,
+      "h": 474,
+      "nx": 1,
+      "ny": 2,
+      "layers": 2,
+      "z0": 0,
+      "z1": 948,
+      "n": 4,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     }
+    ]
+   },
+   {
+    "id": "B",
+    "x": 87,
+    "y": 0,
+    "L": 474,
+    "W": 780,
+    "n": 22,
+    "blocks": [
+     {
+      "w": 474,
+      "d": 87,
+      "h": 369,
+      "nx": 1,
+      "ny": 8,
+      "layers": 1,
+      "z0": 0,
+      "z1": 369,
+      "n": 8,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     },
+     {
+      "w": 474,
+      "d": 369,
+      "h": 87,
+      "nx": 1,
+      "ny": 2,
+      "layers": 7,
+      "z0": 369,
+      "z1": 978,
+      "n": 14,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   },
+   {
+    "id": "C",
+    "x": 561,
+    "y": 0,
+    "L": 619,
+    "W": 780,
+    "n": 28,
+    "blocks": [
+     {
+      "w": 87,
+      "d": 369,
+      "h": 474,
+      "nx": 7,
+      "ny": 2,
+      "layers": 2,
+      "z0": 0,
+      "z1": 948,
+      "n": 28,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     }
+    ]
+   }
+  ],
+  "fill": 91.1,
+  "ubvol": 59
+ },
+ "D-1": {
+  "dims": [
+   474,
+   369,
+   57
+  ],
+  "n": 86,
+  "qty": 26029,
+  "boxes": 303,
+  "last": 57,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 228,
+    "W": 780,
+    "n": 16,
+    "blocks": [
+     {
+      "w": 57,
+      "d": 369,
+      "h": 474,
+      "nx": 4,
+      "ny": 2,
+      "layers": 2,
+      "z0": 0,
+      "z1": 948,
+      "n": 16,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     }
+    ]
+   },
+   {
+    "id": "B",
+    "x": 228,
+    "y": 0,
+    "L": 952,
+    "W": 369,
+    "n": 34,
+    "blocks": [
+     {
+      "w": 474,
+      "d": 369,
+      "h": 57,
+      "nx": 2,
+      "ny": 1,
+      "layers": 17,
+      "z0": 0,
+      "z1": 969,
+      "n": 34,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   },
+   {
+    "id": "C",
+    "x": 228,
+    "y": 369,
+    "L": 952,
+    "W": 411,
+    "n": 36,
+    "blocks": [
+     {
+      "w": 474,
+      "d": 57,
+      "h": 369,
+      "nx": 2,
+      "ny": 7,
+      "layers": 2,
+      "z0": 0,
+      "z1": 738,
+      "n": 28,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     },
+     {
+      "w": 474,
+      "d": 369,
+      "h": 57,
+      "nx": 2,
+      "ny": 1,
+      "layers": 4,
+      "z0": 738,
+      "z1": 966,
+      "n": 8,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   }
+  ],
+  "fill": 95.1,
+  "ubvol": 90
+ },
+ "G": {
+  "dims": [
+   634,
+   514,
+   82
+  ],
+  "n": 28,
+  "qty": 8000,
+  "boxes": 286,
+  "last": 20,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 514,
+    "W": 780,
+    "n": 13,
+    "blocks": [
+     {
+      "w": 514,
+      "d": 82,
+      "h": 634,
+      "nx": 1,
+      "ny": 9,
+      "layers": 1,
+      "z0": 0,
+      "z1": 634,
+      "n": 9,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     },
+     {
+      "w": 514,
+      "d": 634,
+      "h": 82,
+      "nx": 1,
+      "ny": 1,
+      "layers": 4,
+      "z0": 634,
+      "z1": 962,
+      "n": 4,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   },
+   {
+    "id": "B",
+    "x": 514,
+    "y": 0,
+    "L": 666,
+    "W": 246,
+    "n": 3,
+    "blocks": [
+     {
+      "w": 514,
+      "d": 82,
+      "h": 634,
+      "nx": 1,
+      "ny": 3,
+      "layers": 1,
+      "z0": 0,
+      "z1": 634,
+      "n": 3,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     }
+    ]
+   },
+   {
+    "id": "C",
+    "x": 514,
+    "y": 246,
+    "L": 666,
+    "W": 534,
+    "n": 12,
+    "blocks": [
+     {
+      "w": 82,
+      "d": 514,
+      "h": 634,
+      "nx": 8,
+      "ny": 1,
+      "layers": 1,
+      "z0": 0,
+      "z1": 634,
+      "n": 8,
+      "pose": "DE PIE",
+      "posedesc": "levantada, apoyada en su lado corto"
+     },
+     {
+      "w": 634,
+      "d": 514,
+      "h": 82,
+      "nx": 1,
+      "ny": 1,
+      "layers": 4,
+      "z0": 634,
+      "z1": 962,
+      "n": 4,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   }
+  ],
+  "fill": 83.0,
+  "ubvol": 33
+ },
+ "J": {
+  "dims": [
+   704,
+   494,
+   102
+  ],
+  "n": 19,
+  "qty": 7500,
+  "boxes": 395,
+  "last": 14,
+  "zones": [
+   {
+    "id": "A",
+    "x": 0,
+    "y": 0,
+    "L": 1180,
+    "W": 780,
+    "n": 19,
+    "blocks": [
+     {
+      "w": 102,
+      "d": 704,
+      "h": 494,
+      "nx": 11,
+      "ny": 1,
+      "layers": 1,
+      "z0": 0,
+      "z1": 494,
+      "n": 11,
+      "pose": "DE CANTO",
+      "posedesc": "de perfil, como carpetas en un archivador"
+     },
+     {
+      "w": 494,
+      "d": 704,
+      "h": 102,
+      "nx": 2,
+      "ny": 1,
+      "layers": 4,
+      "z0": 494,
+      "z1": 902,
+      "n": 8,
+      "pose": "PLANA",
+      "posedesc": "tal cual viene, con la tapa arriba"
+     }
+    ]
+   }
+  ],
+  "fill": 74.7,
+  "ubvol": 25
+ }
+}
